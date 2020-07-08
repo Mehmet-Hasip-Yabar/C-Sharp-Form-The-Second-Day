@@ -1,0 +1,10 @@
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\bin\Debug\İkiniformuygulaması.exe.config
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\bin\Debug\İkiniformuygulaması.exe
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\bin\Debug\İkiniformuygulaması.pdb
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\obj\Debug\İkiniformuygulaması.csprojAssemblyReference.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\obj\Debug\İkiniformuygulaması.Form1.resources
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\obj\Debug\İkiniformuygulaması.Properties.Resources.resources
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\obj\Debug\İkiniformuygulaması.csproj.GenerateResource.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\obj\Debug\İkiniformuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\obj\Debug\İkiniformuygulaması.exe
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İkiniformuygulaması\İkiniformuygulaması\obj\Debug\İkiniformuygulaması.pdb
